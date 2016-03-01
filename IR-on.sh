@@ -4,7 +4,7 @@
 # Created by Wesley Archer AKA Raspberry Coulis
 # Twitter: @RaspberryCoulis
 # Email: raspberrycoulis.official@gmail.com
-# Wordpress: http://raspberrycoulis.wordpress.com
+# Wordpress: 
 
 # This will turn the IR LED's
 sudo i2cset -y 1 0x70 0x00 0xa5
