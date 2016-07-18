@@ -3,8 +3,8 @@
 # Can be used as part of a Crontab to turn on at designated days / times
 # Created by Wesley Archer AKA Raspberry Coulis
 # Twitter: @RaspberryCoulis
-# Email: raspberrycoulis.official@gmail.com
-# Wordpress: http://raspberrycoulis.wordpress.com
+# Email: wesley@raspberrycoulis.co.uk
+# Website: https://www.raspberrycoulis.co.uk
 
 # This will turn off all LED's
 sudo i2cset -y 1 0x70 0x00 0x00
